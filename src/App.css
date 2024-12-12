@@ -1,0 +1,33 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0;
+}
+.card {
+  text-align: center;
+}
+.info {
+  margin-top: 50px;
+}
+.profile {
+  text-align: center;
+}
+.contacts{
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: row;
+  margin: 10px;
+}
+.Skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 10px;
+}
+.lists {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  justify-content: center;
+}
