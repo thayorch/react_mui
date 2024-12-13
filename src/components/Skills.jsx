@@ -5,32 +5,32 @@ const cardData = [
   {
     title: "Basic React",
     body: "the basic React framework",
-    img:"/assets/react.svg",
+    img:"https://svgmix.com/uploads/e86a0a-react.svg",
   },
   {
     title: "Basic Vue",
     body: "the basic Vue framework",
-    img:"/assets/vue.svg",
+    img:"https://svgmix.com/uploads/c49ded-vue.svg",
   },
   {
     title: "Basic Svelte",
     body: "the basic Svelte framework",
-    img:"/assets/svelte.svg",
+    img:"https://svgmix.com/uploads/cf27a7-svelte-icon.svg",
   },
   {
     title: "Advance React",
     body: "the advance React framework",
-    img: "/assets/react.svg",
+    img:"https://svgmix.com/uploads/e86a0a-react.svg",
   },
   {
     title: "Advance Vue",
     body: "the advance Vue framework",
-    img:"/assets/vue.svg",
+    img:"https://svgmix.com/uploads/c49ded-vue.svg",
   },
   {
     title: "Advance Svelte",
     body: "the advance Svelte framework",
-    img:"/assets/svelte.svg",
+    img:"https://svgmix.com/uploads/cf27a7-svelte-icon.svg",
   },
 ];
 
