@@ -5,32 +5,32 @@ const cardData = [
   {
     title: "Basic React",
     body: "the basic React framework",
-    img:"/src/assets/react.svg",
+    img:"/assets/react.svg",
   },
   {
     title: "Basic Vue",
     body: "the basic Vue framework",
-    img:"/src/assets/vue.svg",
+    img:"/assets/vue.svg",
   },
   {
     title: "Basic Svelte",
     body: "the basic Svelte framework",
-    img:"/src/assets/svelte.svg",
+    img:"/assets/svelte.svg",
   },
   {
     title: "Advance React",
     body: "the advance React framework",
-    img: "/src/assets/react.svg",
+    img: "/assets/react.svg",
   },
   {
     title: "Advance Vue",
     body: "the advance Vue framework",
-    img:"/src/assets/vue.svg",
+    img:"/assets/vue.svg",
   },
   {
     title: "Advance Svelte",
     body: "the advance Svelte framework",
-    img:"/src/assets/svelte.svg",
+    img:"/assets/svelte.svg",
   },
 ];
 

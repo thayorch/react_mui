@@ -80,7 +80,7 @@ const Home = () => {
           ) : (
             <Box
               component="img"
-              src="/public/profile.jpg"
+              src="/profile.jpg"
               alt="profile pic"
               sx={{
                 borderRadius: "50%",
