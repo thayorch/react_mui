@@ -28,7 +28,7 @@ function Info() {
         </Typography>
 
         <Typography variant="h5">
-          <ChevronRightIcon /> Svelte
+          <ChevronRightIcon /> Web Development
         </Typography>
 
         <Typography variant="h5">
