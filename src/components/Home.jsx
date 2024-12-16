@@ -40,7 +40,7 @@ const contactsData = [
     icon: <EmailIcon fontSize="large" />,
     url: "mailto:thatcharnon.maidee@gmail.com",
   },
-];
+]; 
 
 const Home = () => {
   const [isLoading, setIsLoading] = useState(false);
