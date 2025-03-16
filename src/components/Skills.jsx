@@ -60,7 +60,7 @@ const cardData = [
   {
     title: "Tailwind CSS",
     body: "Tailwind CSS ",
-    img:"https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"
+    img:"https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
   },
 
 
